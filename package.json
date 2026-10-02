@@ -1,0 +1,13 @@
+{
+  "name": "pre-entrega",
+  "version": "1.0.0",
+  "description": "Pre-Entrega - Cliente CLI para la API FakeStore",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
